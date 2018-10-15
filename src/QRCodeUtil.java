@@ -111,7 +111,7 @@ public class QRCodeUtil {
 			 * 
 			 * 2.解析二维码，获取数据。
 			 */
-	    	String encodeddata = "hello 三维码";
+	    	String encodeddata = "hello 三维码 随便改一改";
 	    	String filePath = "D:\\workspace_eclipse\\qrcode\\qrcode.png";
 	    	File destFile = new File(filePath);
 	    	try {
